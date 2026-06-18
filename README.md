@@ -108,8 +108,7 @@
 
 <p align="center">
 📧 Email: hibaibrahimi000@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
-🌐 Portfolio: https://your-portfolio.com  
+💼 LinkedIn: https://linkedin.com/in/your-profile   
 </p>
 
 ---
